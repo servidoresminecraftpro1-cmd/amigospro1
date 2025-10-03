@@ -563,6 +563,17 @@
 		CooldownInSeconds = 10.0
 		AllowCrafting = true
 
+	[Spells."gtbcs_geomancy_plus:solar_storm"]
+		Enabled = true
+		School = "irons_spellbooks:holy"
+		MaxLevel = 8
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 90.0
+		AllowCrafting = true
+
 	[Spells."irons_spellbooks:cleanse"]
 		Enabled = true
 		School = "irons_spellbooks:holy"
@@ -583,6 +594,17 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 20.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:solar_beam"]
+		Enabled = true
+		School = "irons_spellbooks:holy"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "RARE"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 12.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:wisp"]
@@ -607,15 +629,15 @@
 		CooldownInSeconds = 15.0
 		AllowCrafting = true
 
-	[Spells."traveloptics:solar_flare"]
+	[Spells."gtbcs_geomancy_plus:summon_naga"]
 		Enabled = true
 		School = "irons_spellbooks:holy"
-		MaxLevel = 8
+		MaxLevel = 3
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "COMMON"
+		MinRarity = "LEGENDARY"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 60.0
+		CooldownInSeconds = 330.0
 		AllowCrafting = true
 
 	[Spells."dacxirons:sunleia_beam"]
@@ -781,6 +803,128 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 35.0
+		AllowCrafting = true
+
+	#gtbcs_geomancy_plus:geo
+	[Spells."gtbcs_geomancy_plus:geo_conductor"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "RARE"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 75.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:pillar_of_the_resounding_earth"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 6
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "RARE"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 75.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:petrivise"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "RARE"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 25.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:eroding_boulder"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 5
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 30.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:tremor_step"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "COMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 75.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:dripstone_bolt"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 10
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "COMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 1.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:earthshatter"]
+		Enabled = true
+		School = "irons_spellbooks:nature"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 45.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:chunker"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 6
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 22.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:seismic_surf"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "COMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 90.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:tremor_spike"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 5
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "COMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 25.0
+		AllowCrafting = true
+
+	[Spells."gtbcs_geomancy_plus:fissure"]
+		Enabled = true
+		School = "gtbcs_geomancy_plus:geo"
+		MaxLevel = 8
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 15.0
 		AllowCrafting = true
 
 	#irons_spellbooks:fire
@@ -1148,6 +1292,17 @@
 		CooldownInSeconds = 60.0
 		AllowCrafting = true
 
+	[Spells."traveloptics:serpentide"]
+		Enabled = true
+		School = "traveloptics:aqua"
+		MaxLevel = 4
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "RARE"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 35.0
+		AllowCrafting = true
+
 	[Spells."traveloptics:echo_of_the_abyss"]
 		Enabled = true
 		School = "traveloptics:aqua"
@@ -1168,17 +1323,6 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 12.0
-		AllowCrafting = true
-
-	[Spells."traveloptics:tidal_slash"]
-		Enabled = true
-		School = "traveloptics:aqua"
-		MaxLevel = 1
-		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "LEGENDARY"
-		ManaCostMultiplier = 1.0
-		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 50.0
 		AllowCrafting = true
 
 	[Spells."traveloptics:tsunami"]
@@ -1236,6 +1380,17 @@
 		CooldownInSeconds = 13.0
 		AllowCrafting = true
 
+	[Spells."traveloptics:skypiercer"]
+		Enabled = true
+		School = "traveloptics:aqua"
+		MaxLevel = 1
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "LEGENDARY"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 60.0
+		AllowCrafting = true
+
 	[Spells."traveloptics:coral_barrage"]
 		Enabled = true
 		School = "traveloptics:aqua"
@@ -1267,6 +1422,17 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 1.0
+		AllowCrafting = true
+
+	[Spells."traveloptics:the_howling_tempest"]
+		Enabled = true
+		School = "traveloptics:aqua"
+		MaxLevel = 3
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "EPIC"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 60.0
 		AllowCrafting = true
 
 	[Spells."traveloptics:jet_steam"]
@@ -1565,17 +1731,6 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 15.0
-		AllowCrafting = true
-
-	[Spells."traveloptics:earthshatter"]
-		Enabled = true
-		School = "irons_spellbooks:nature"
-		MaxLevel = 3
-		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "UNCOMMON"
-		ManaCostMultiplier = 1.0
-		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 45.0
 		AllowCrafting = true
 
 	#irons_spellbooks:ender
