@@ -1998,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-10-03 15:44:45 +0000"
@@ -2058,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-03 15:44:45 +0000"
@@ -2085,6 +2097,18 @@
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:09:34 +0000"
     },
     "done": true
   },
@@ -2184,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:09:34 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/tray": {
     "criteria": {
       "has_oak_planks": "2025-10-03 15:44:45 +0000"
@@ -2217,6 +2247,12 @@
   "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:09:34 +0000"
     },
     "done": true
   },
