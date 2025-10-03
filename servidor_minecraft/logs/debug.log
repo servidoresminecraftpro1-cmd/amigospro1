@@ -17588,3 +17588,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [03Oct2025 00:40:23.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
 [03Oct2025 00:40:41.673] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [03Oct2025 00:40:46.775] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[03Oct2025 00:44:19.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 00:44:19.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 00:49:06.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Not Today, Thank You]
+[03Oct2025 00:49:11.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Oct2025 00:49:19.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 00:49:19.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 00:49:23.669] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Oct2025 00:49:57.357] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot

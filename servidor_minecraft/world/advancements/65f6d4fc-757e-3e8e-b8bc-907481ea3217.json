@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-03 00:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-10-03 00:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-10-03 00:33:37 +0000"
@@ -56,6 +68,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-10-03 00:33:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-10-03 00:41:38 +0000"
     },
     "done": true
   },
@@ -131,6 +149,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-10-03 00:42:20 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/butter": {
     "criteria": {
       "has_water_bucket": "2025-10-03 00:33:55 +0000"
@@ -188,6 +212,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2025-10-03 00:39:13 +0000",
+      "minecraft:stray": "2025-10-03 00:40:41 +0000",
       "minecraft:zombie": "2025-10-03 00:37:07 +0000"
     },
     "done": false
@@ -201,6 +226,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-10-03 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
     },
     "done": true
   },
@@ -234,9 +265,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-10-03 00:40:25 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-10-03 00:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-10-03 00:40:25 +0000"
     },
     "done": true
   },
@@ -318,9 +367,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-03 00:42:20 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/copper_carrot": {
     "criteria": {
       "has_copper": "2025-10-03 00:36:59 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-10-03 00:40:26 +0000"
     },
     "done": true
   },
@@ -546,6 +607,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-10-03 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-10-03 00:33:27 +0000"
@@ -585,6 +658,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-10-03 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-10-03 00:40:25 +0000"
     },
     "done": true
   },
@@ -660,6 +739,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-10-03 00:42:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-10-03 00:33:05 +0000"
@@ -678,6 +763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-03 00:42:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-10-03 00:31:29 +0000"
@@ -693,6 +784,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-10-03 00:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-10-03 00:40:26 +0000"
     },
     "done": true
   },
@@ -762,9 +859,21 @@
     },
     "done": true
   },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-10-03 00:40:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-10-03 00:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
     },
     "done": true
   },
@@ -777,6 +886,12 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-10-03 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-10-03 00:40:26 +0000"
     },
     "done": true
   },
@@ -819,6 +934,12 @@
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-10-03 00:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
     },
     "done": true
   },
@@ -1020,9 +1141,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-03 00:42:20 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-10-03 00:36:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-03 00:42:20 +0000"
     },
     "done": true
   },
@@ -1128,6 +1261,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-10-03 00:40:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-10-03 00:25:15 +0000"
@@ -1137,6 +1276,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-10-03 00:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-10-03 00:40:26 +0000"
     },
     "done": true
   },
@@ -1182,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 00:33:37 +0000"
@@ -1200,6 +1351,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-10-03 00:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-10-03 00:33:16 +0000"
@@ -1215,6 +1372,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-10-03 00:31:33 +0000",
+      "minecraft:snowy_plains": "2025-10-03 00:44:33 +0000",
       "minecraft:plains": "2025-10-03 00:25:16 +0000"
     },
     "done": false
@@ -1263,7 +1421,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rabbit_stew": "2025-10-03 00:39:08 +0000"
+      "baked_potato": "2025-10-03 00:44:17 +0000",
+      "mushroom_stew": "2025-10-03 00:40:52 +0000",
+      "rabbit_stew": "2025-10-03 00:39:08 +0000",
+      "cooked_cod": "2025-10-03 00:41:08 +0000"
     },
     "done": false
   },
@@ -1294,6 +1455,12 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-10-03 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-10-03 00:40:29 +0000"
     },
     "done": true
   },
@@ -1336,6 +1503,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-10-03 00:33:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-10-03 00:42:20 +0000"
     },
     "done": true
   },
