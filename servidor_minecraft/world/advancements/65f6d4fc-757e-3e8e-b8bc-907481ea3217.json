@@ -1884,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-10-03 15:48:59 +0000"
@@ -1896,15 +1902,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-10-03 16:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-10-03 15:48:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-10-03 16:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-10-03 15:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-03 16:02:34 +0000"
     },
     "done": true
   },
@@ -1956,6 +1980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-03 16:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-10-03 15:48:59 +0000"
@@ -1971,6 +2001,18 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-03 16:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-10-03 16:06:21 +0000"
     },
     "done": true
   },
@@ -1995,6 +2037,18 @@
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-10-03 16:06:21 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "huntingpost": "2025-10-03 16:03:14 +0000"
     },
     "done": true
   },
@@ -2034,6 +2088,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "huntingpost": "2025-10-03 16:03:14 +0000"
+    },
+    "done": false
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-10-03 15:44:45 +0000"
@@ -2049,6 +2109,24 @@
   "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-10-03 16:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-10-03 16:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-10-03 16:06:21 +0000"
     },
     "done": true
   },
@@ -2079,6 +2157,12 @@
   "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-10-03 16:03:11 +0000"
     },
     "done": true
   },
@@ -2124,6 +2208,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-10-03 16:04:01 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 15:44:45 +0000"
@@ -2133,6 +2223,12 @@
   "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-10-03 16:06:21 +0000"
     },
     "done": true
   },
@@ -2166,9 +2262,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-10-03 16:06:21 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_counter": {
     "criteria": {
       "has_oak_planks": "2025-10-03 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-10-03 16:03:16 +0000"
     },
     "done": true
   },

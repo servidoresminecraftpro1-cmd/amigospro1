@@ -14467,3 +14467,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [03Oct2025 15:58:01.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Oct2025 15:58:11.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dwain'/2, l='ServerLevel[world]', x=9.84, y=163.00, z=24.96] died, message: 'Dwain hit the ground too hard'
 [03Oct2025 15:58:11.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dwain'/2, l='ServerLevel[world]', x=9.84, y=163.00, z=24.96] died: Dwain fell from a high place
+[03Oct2025 16:03:01.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 16:03:01.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 16:03:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
+[03Oct2025 16:08:01.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 16:08:01.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

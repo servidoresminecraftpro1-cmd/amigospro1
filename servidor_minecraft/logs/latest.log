@@ -6378,3 +6378,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [03Oct2025 15:44:25.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ilse'/4, l='ServerLevel[world]', x=5.53, y=153.00, z=29.70] died: Ilse fell from a high place
 [03Oct2025 15:58:11.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dwain'/2, l='ServerLevel[world]', x=9.84, y=163.00, z=24.96] died, message: 'Dwain hit the ground too hard'
 [03Oct2025 15:58:11.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dwain'/2, l='ServerLevel[world]', x=9.84, y=163.00, z=24.96] died: Dwain fell from a high place
+[03Oct2025 16:03:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
