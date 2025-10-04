@@ -6377,3 +6377,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Oct2025 02:51:38.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tiny'/19, l='ServerLevel[world]', x=3.85, y=109.00, z=-52.63] died: Tiny fell from a high place
 [04Oct2025 02:55:09.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Eldon'/139, l='ServerLevel[world]', x=-481.70, y=85.42, z=-640.89] died, message: 'Eldon was slain by Zombie'
 [04Oct2025 02:55:09.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Eldon'/139, l='ServerLevel[world]', x=-481.70, y=85.42, z=-640.89] died: Eldon was slain by Zombie
+[04Oct2025 03:09:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bypassing the Expiration Date]
