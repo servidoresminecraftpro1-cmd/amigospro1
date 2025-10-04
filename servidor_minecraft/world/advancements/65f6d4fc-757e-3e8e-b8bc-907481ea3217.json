@@ -752,7 +752,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-10-03 02:21:06 +0000"
+      "minecraft:skeleton": "2025-10-03 02:21:06 +0000",
+      "minecraft:zombie": "2025-10-04 02:57:21 +0000"
     },
     "done": false
   },
@@ -2205,7 +2206,8 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "huntingpost": "2025-10-03 16:03:14 +0000",
-      "oceanographytable": "2025-10-04 02:52:55 +0000"
+      "oceanographytable": "2025-10-04 02:52:55 +0000",
+      "smoker": "2025-10-04 02:54:51 +0000"
     },
     "done": false
   },
@@ -2347,6 +2349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 03:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-04 02:48:04 +0000"
@@ -2401,6 +2409,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-10-04 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-10-04 02:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-10-04 02:51:05 +0000"
@@ -2410,6 +2430,12 @@
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-10-04 02:51:05 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 03:03:21 +0000"
     },
     "done": true
   },
@@ -2434,6 +2460,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-10-04 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 03:03:21 +0000"
     },
     "done": true
   },
@@ -2472,6 +2510,12 @@
       "has_stone": "2025-10-04 02:48:04 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-10-04 02:55:27 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
