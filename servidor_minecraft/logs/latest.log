@@ -6378,3 +6378,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Oct2025 02:55:09.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Eldon'/139, l='ServerLevel[world]', x=-481.70, y=85.42, z=-640.89] died, message: 'Eldon was slain by Zombie'
 [04Oct2025 02:55:09.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Eldon'/139, l='ServerLevel[world]', x=-481.70, y=85.42, z=-640.89] died: Eldon was slain by Zombie
 [04Oct2025 03:09:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bypassing the Expiration Date]
+[04Oct2025 03:32:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Close Quarters]
+[04Oct2025 03:32:12.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keeper of Souls]
+[04Oct2025 03:36:34.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Burner of Souls]

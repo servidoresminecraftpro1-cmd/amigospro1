@@ -740,6 +740,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-10-03 02:29:54 +0000",
+      "cooked_salmon": "2025-10-04 03:31:24 +0000",
       "carrot": "2025-10-03 02:17:41 +0000"
     },
     "done": false
@@ -2355,6 +2356,12 @@
     },
     "done": true
   },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-10-04 03:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-04 02:48:04 +0000"
@@ -2439,6 +2446,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-04 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-10-04 03:32:09 +0000"
+    },
+    "done": true
+  },
   "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
     "criteria": {
       "has_smooth_stone": "2025-10-04 03:03:21 +0000"
@@ -2466,6 +2485,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-10-04 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-10-04 03:32:29 +0000"
     },
     "done": true
   },
@@ -2550,6 +2575,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-10-04 03:24:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-10-04 03:32:29 +0000"
     },
     "done": true
   },
